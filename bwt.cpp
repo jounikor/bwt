@@ -178,11 +178,9 @@ void bwt::sort( const char* const t, int l ) throw (std::invalid_argument)
     sort();
 }
 
-
 //
+// Test main() for the BWT..
 //
-//
-
 
 int main( int argc, char** argv )
 {
